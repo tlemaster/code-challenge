@@ -1,0 +1,31 @@
+body {
+	min-height: 2000px;
+	padding-top: 80px;
+}
+
+h2 { 
+	border-bottom: 1px solid #eee;
+	padding-bottom: 9px;
+	font-size: 28px;
+}
+
+h3 {
+	margin-top: 10px;
+	margin-bottom: 3px;
+	font-size: 20px;
+}
+
+article.game {
+	margin: 22px 0;
+}
+
+.game p {
+	display: inline;
+	margin-right: 15px;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+
+
